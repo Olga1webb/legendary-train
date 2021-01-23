@@ -1,6 +1,6 @@
 # Задание 1
 
-Ссылка на диаграмму BPMN
+[Ссылка на диаграмму BPMN](https://github.com/Olga1webb/legendary-train/blob/main/Untitled%20Diagram.png)
 
 # Задание 2
 
